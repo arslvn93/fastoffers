@@ -6,7 +6,7 @@ const ListPackage : React.FC = () => {
         <div className='flex flex-col md:flex-row flex-nowrap'>
             <div className='flex-grow-0 flex-shrink w-full md:w-6/12 mb-5 md:mb-0'>
                 <BlockPricing
-                    title='AGENT YEARLY PLANT'
+                    title='AGENT YEARLY PLAN'
                     price='$120'
                     date='year'
                     description='Save 17% by getting our yearly plan'
@@ -31,7 +31,7 @@ const ListPackage : React.FC = () => {
 
             <div className='flex-grow-0 flex-shrink w-full md:w-6/12'>
                 <BlockPricing
-                    title='AGENT MONTHLY PLANT'
+                    title='AGENT MONTHLY PLAN'
                     price='$12'
                     date='month'
                     listBenefit={[
