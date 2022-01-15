@@ -15,10 +15,10 @@ const HomeHeroLeft = () => {
             </p>
 
             <div className='text-center inline-block'>
-                <Link href='https://forms.ltd/register'>
+                <Link href='https://beta.fastoffers.ca/?demo=true'>
                     <a>
                         <ButtonSecondary
-                            text="Try it out - It's Free"
+                            text="Free Live Demo"
                             icon={BsArrowRightShort}
                             classes='py-4 px-14 rounded-full text-lg'
                         />
