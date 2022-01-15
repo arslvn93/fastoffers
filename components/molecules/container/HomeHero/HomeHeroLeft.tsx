@@ -18,7 +18,7 @@ const HomeHeroLeft = () => {
                 <Link href='https://beta.fastoffers.ca/?demo=true'>
                     <a>
                         <ButtonSecondary
-                            text="Free Live Demo"
+                            text="Click Here for Live Demo"
                             icon={BsArrowRightShort}
                             classes='py-4 px-14 rounded-full text-lg'
                         />
