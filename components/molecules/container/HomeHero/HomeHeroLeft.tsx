@@ -26,7 +26,7 @@ const HomeHeroLeft = () => {
                 </Link>
 
                 <p className='text-xs mt-3'>
-                    totally <span className='font-bold'>free for 30 days</span>. No credit card required.
+                Only available for agents in the <span className='font-bold'>Greater Toronto Area</span>.
                 </p>
             </div>
         </div>
