@@ -25,21 +25,7 @@ const TryoutSection: React.FC = () => {
                     <p className='mb-3 text-gray-800 text-lg'>Try the demo below to see how fast and easy it is to draft full real estate agreements with FastOffers</p>
                 </div>
 
-                <div className='text-center inline-block'>
-            
-                    <a>
-                        <ButtonSecondary
-                            text="Try it out - It's Free"
-                            icon={BsArrowRightShort}
-                            classes='py-4 px-14 rounded-full text-lg'
-                        />
-                    </a>
-        
-
-                <p className='text-xs mt-3'>
-                    totally <span className='font-bold'>free for 30 days</span>. No credit card required.
-                </p>
-            </div>            </div>
+                      </div>
 
             <svg className='absolute -bottom-0 left-0 right-0 w-full' fill="#ffffff" xmlns="http://www.w3.org/2000/svg" height="201" viewBox="0 0 1920.002 855.001" preserveAspectRatio="none">
                 <g transform="translate(-0.999 -1)">
