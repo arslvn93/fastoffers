@@ -26,7 +26,7 @@ const TryoutSection: React.FC = () => {
                 </div>
 
                 <div className='text-center inline-block'>
-                <Link href='https://forms.ltd/register'>
+            
                     <a>
                         <ButtonSecondary
                             text="Try it out - It's Free"
@@ -34,7 +34,7 @@ const TryoutSection: React.FC = () => {
                             classes='py-4 px-14 rounded-full text-lg'
                         />
                     </a>
-                </Link>
+        
 
                 <p className='text-xs mt-3'>
                     totally <span className='font-bold'>free for 30 days</span>. No credit card required.
