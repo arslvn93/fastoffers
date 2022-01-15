@@ -22,7 +22,7 @@ const TryoutSection: React.FC = () => {
             <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
                 <div className='text-center'>
                     <h2 className='text-white text-5xl font-bold mb-5'><a href="https://beta.fastoffers.ca/?demo=true">click here to try out the live instant demo</a></h2>
-                    <p className='mb-3 text-gray-800 text-lg'><a href="https://beta.fastoffers.ca/?demo=true">See how fast and easy it is to draft full real estate agreements with FastOffers!</a></p>
+                    <p className='mb-8 text-gray-800 text-lg'><a href="https://beta.fastoffers.ca/?demo=true">See how fast and easy it is to draft full real estate agreements with FastOffers!</a></p>
                 </div>
 
                       </div>
