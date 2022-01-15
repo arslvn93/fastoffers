@@ -27,9 +27,9 @@ const HomePage = () => {
             <div className='bg-bordered-wrap'>
                 <HomeHero />
 
-                <StepSection />
-
                 <TryoutSection />
+                
+                <StepSection />
 
                 <TrustedSection />
 

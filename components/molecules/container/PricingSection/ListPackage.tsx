@@ -13,7 +13,7 @@ const ListPackage : React.FC = () => {
                     listBenefit={[
                         {
                             text: 'unlimited offers'
-                        },
+                        },.
                         {
                             text: 'DocuSign E-Signature Templates'
                         },
