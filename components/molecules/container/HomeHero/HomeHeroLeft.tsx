@@ -7,11 +7,11 @@ const HomeHeroLeft = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full lg:w-6/12 xl:w-6/12 2xl:w-5/12'>
             <h1 className='text-gradient-green text-5xl md:text-9xl lg:text-80px xl:text-111px 2xl:text-120px font-bold leading-tight mt-5 lg:mt-0'>
-            draft a full real estate offer in a minute
+            draft a real estate offer in under a minute
             </h1>
 
             <p className='leading-relaxed text-xl py-8'>
-                A real estate offer is one of the most important parts of the transaction, which is why we created Fast Offers to help you draft an offer faster than ever before.
+            Fast Offers is a tool designed for real estate agents to prepare residential lease and purchase agreements in seconds.
             </p>
 
             <div className='text-center inline-block'>

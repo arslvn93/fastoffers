@@ -22,7 +22,7 @@ const TryoutSection: React.FC = () => {
             <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
                 <div className='text-center'>
                     <h2 className='text-white text-5xl font-bold mb-5'><a href="https://beta.fastoffers.ca/?demo=true">click here to try the live demo</a></h2>
-                    <p className='mb-8 text-gray-800 text-lg'><a href="https://beta.fastoffers.ca/?demo=true">Only available for agents in the <span className='font-bold'>Greater Toronto Area</span>.</a></p>
+                    <p className='mb-8 text-gray-800 text-lg'><a href="https://beta.fastoffers.ca/?demo=true">Currently only available for agents in the <span className='font-bold'>Greater Toronto Area</span>.</a></p>
                 </div>
 
                       </div>
