@@ -5,8 +5,8 @@ const StepLeft : React.FC = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full lg:w-5/12'>
             <TextTitleBorder
-                text='draft a full real estate offer in a'
-                textBordered='minute'
+                text='we help agents draft offers'
+                textBordered='faster'
                 classes='mb-7'
             />
 
