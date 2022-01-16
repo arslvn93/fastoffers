@@ -15,7 +15,7 @@ const FooterLeft : React.FC = () => {
                     classes='text-center md:text-left'
                 />
 
-                <p className='text-white leading-relaxed my-5 text-center md:text-left'>draft offers faster than ever before</p>
+                <p className='text-white leading-relaxed my-5 text-center md:text-left'>only available for agents in the Greater Toronto Area.</p>
 
                 <div className='text-center md:inline-block'>
                     <Link href='https://forms.ltd/register'>
