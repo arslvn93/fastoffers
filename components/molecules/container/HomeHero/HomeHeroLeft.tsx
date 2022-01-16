@@ -7,18 +7,18 @@ const HomeHeroLeft = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full lg:w-6/12 xl:w-6/12 2xl:w-5/12'>
             <h1 className='text-gradient-green text-5xl md:text-9xl lg:text-80px xl:text-111px 2xl:text-120px font-bold leading-tight mt-5 lg:mt-0'>
-            draft a real estate offer in under a minute
+            draft real estate offers in seconds
             </h1>
 
             <p className='leading-relaxed text-xl py-8'>
-            Fast Offers is a tool designed for real estate agents to prepare residential lease and purchase agreements in seconds.
+            generate auto-populated residential lease and purchase agreements in seconds.
             </p>
 
             <div className='text-center inline-block'>
-                <Link href='https://beta.fastoffers.ca/?demo=true'>
+                <Link href='https://beta.fastoffers.ca/?demo=true&s=hp'>
                     <a>
                         <ButtonSecondary
-                            text="Click Here for Live Demo"
+                            text="Free Live Demo"
                             icon={BsArrowRightShort}
                             classes='py-4 px-14 rounded-full text-lg'
                         />
