@@ -5,7 +5,7 @@ import { BsArrowRightShort } from 'react-icons/bs'
 import ButtonFlipped from '../../../atoms/control/ButtonFlipped'
 import Link from 'next/link'
 
-const FooterLeft : React.FC = () => {
+const FooterLeft: React.FC = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full md:w-6/12'>
             <div className='mt-8'>
@@ -14,8 +14,6 @@ const FooterLeft : React.FC = () => {
                     textBordered='free trial.'
                     classes='text-center md:text-left'
                 />
-
-                <p className='text-white leading-relaxed my-5 text-center md:text-left'>only available for agents in the Greater Toronto Area.</p>
 
                 <div className='text-center md:inline-block'>
                     <Link href='https://forms.ltd/register'>

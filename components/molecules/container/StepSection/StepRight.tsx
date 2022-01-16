@@ -12,9 +12,6 @@ const StepRight : React.FC = () => {
     })
     return (
         <div className='flex-grow-0 flex-shrink w-full lg:w-7/12 lg:pl-10 mt-5 lg:mt-0'>
-            <div className='text-center mb-8'>
-                <h3 className='text-gradient-green text-5xl font-bold'>3 simple steps</h3>
-            </div>
 
             <div className='mb-4'>
                 <BlockAccordion
