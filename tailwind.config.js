@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       textColor: {
-        'primary': '#40D8A1',
+        'primary': '#81c3d7',
         'secondary': 'rgb(230, 108, 108)',
         'link': '#5b7bfb'
       },
       backgroundColor: {
-        'primary': '#40D8A1',
+        'primary': '#81c3d7',
         'secondary': 'rgb(230, 108, 108)',
         'optional': '#27292c'
       },
@@ -27,7 +27,7 @@ module.exports = {
         '5.8vw': '5.8vw',
       },
       borderColor: {
-        'primary': '#40D8A1',
+        'primary': '#81c3d7',
         'secondary': 'rgb(230, 108, 108)',
         'optional': '#27292c'
       },
