@@ -7,7 +7,7 @@ import { BsEnvelopeOpen } from 'react-icons/bs'
 const StepRight : React.FC = () => {
     const [isOpen, setIsOpen] = useState<any>({
         accordion1: false,
-        accordion2: true,
+        accordion2: false,
         accordion3: false
     })
     return (
