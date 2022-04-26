@@ -26,12 +26,14 @@ const HomePage = () => {
         <MouseEffect>
             <div className='bg-bordered-wrap'>
                 <HomeHero />
+                
+                <TrustedSection />
 
                 <TryoutSection />
                 
                 <StepSection />
 
-                <TrustedSection />
+               
 
                 <PricingSection />
 
