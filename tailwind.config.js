@@ -10,7 +10,7 @@ module.exports = {
       },
       backgroundColor: {
         'primary': '#81c3d7',
-        'secondary': 'rgb(230, 108, 108)',
+        'secondary': 'rgb(22, 66, 91)',
         'optional': '#27292c'
       },
       fontFamily: {
@@ -28,7 +28,7 @@ module.exports = {
       },
       borderColor: {
         'primary': '#81c3d7',
-        'secondary': 'rgb(230, 108, 108)',
+        'secondary': 'rgb(22, 66, 91)',
         'optional': '#27292c'
       },
       height: {
