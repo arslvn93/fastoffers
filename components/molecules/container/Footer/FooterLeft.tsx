@@ -8,7 +8,7 @@ import Link from 'next/link'
 const FooterLeft: React.FC = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full md:w-6/12'>
-            <div className='mt-8'>
+            <div className='mt-8 mb-8'>
                 <TextTitleBorderAnim
                     text='start your'
                     textBordered='free trial.'
