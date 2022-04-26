@@ -11,7 +11,7 @@ const HomeHeroLeft = () => {
             </h1>
 
             <p className='leading-relaxed text-xl py-8'>
-            Generate auto-populated residential lease and purchase agreements faster than you ever thought was possible.
+            Generate auto-populated residential lease and purchase agreements faster than you ever thought possible.
             </p>
 
             <div className='text-center inline-block'>

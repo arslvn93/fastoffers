@@ -8,7 +8,7 @@ const HomeHero : React.FC = () => {
     return (
         <div className='relative'>
             <Navigation
-                logo='./logo-2.png'
+                logo='./logo-2.svg'
                 classes='py-5 z-30'
             />
 
