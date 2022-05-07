@@ -19,13 +19,12 @@ const TryoutSection: React.FC = () => {
                 </svg>
             </div>
 
-            <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
-                <div className='text-center'>
-                    <h2 className='text-white text-5xl font-bold mb-5'><a href="https://beta.fastoffers.ca/?demo=true">click here to try the live demo</a></h2>
-                    <p className='mb-8 text-gray-800 text-lg'><a href="https://beta.fastoffers.ca/?demo=true">Currently only available for agents in the <span className='font-bold'>Greater Toronto Area</span>.</a></p>
-                </div>
-
-                      </div>
+            <div className='container mx-auto mt-24 px-4 lg:px-6 xl:px-20'>
+            <div className='flex flex-col lg:flex-row flex-nowrap'>
+                <StepLeft />
+                <StepRight />
+            </div>
+        </div>
 
             <svg className='absolute -bottom-0 left-0 right-0 w-full' fill="#ffffff" xmlns="http://www.w3.org/2000/svg" height="201" viewBox="0 0 1920.002 855.001" preserveAspectRatio="none">
                 <g transform="translate(-0.999 -1)">
