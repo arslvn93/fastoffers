@@ -14,11 +14,11 @@ const HomeHeroLeft = () => {
             Generate auto-populated residential lease and purchase agreements faster than you ever thought possible.
             </p>
 
-            <div className='text-center inline-block'>
-                <Link href='https://beta.fastoffers.ca/?demo=true&s=hp'>
+            <div className='text-left inline-block'>
+                <Link href='https://forms.ltd/register'>
                     <a>
                         <ButtonSecondary
-                            text="Free Live Demo"
+                            text="Start Free Trial"
                             icon={BsArrowRightShort}
                             classes='py-4 px-14 rounded-full text-lg'
                         />
@@ -26,7 +26,7 @@ const HomeHeroLeft = () => {
                 </Link>
 
                 <p className='text-xs mt-3'>
-                Only available for agents in the <span className='font-bold'>Greater Toronto Area</span>.
+                totally <span className='font-bold'>free for 30 days</span>. No credit card required.
                 </p>
             </div>
         </div>

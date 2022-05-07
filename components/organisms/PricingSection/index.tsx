@@ -7,7 +7,7 @@ const PricingSection : React.FC = () => {
             <div className='container mx-auto px-5 lg:px-10 xl:px-20'>
                 <div className='text-center mb-12'>
                     <h2 className='text-gray-800 mb-8 text-5xl font-bold'>simple pricing.</h2>
-                    <p className='text-gray-800 text-lg'>Only available for agents from the <span className='font-bold'>Greater Toronto Area</span></p>
+                    <p className='text-gray-800 text-lg'>Only available for <span className='font-bold'>Licenced Realtors in Ontario</span></p>
                 </div>
 
                 <ListPackage />
