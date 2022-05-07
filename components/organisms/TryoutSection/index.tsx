@@ -1,4 +1,6 @@
 import React from 'react'
+import StepLeft from '../../molecules/container/StepSection/StepLeft'
+import StepRight from '../../molecules/container/StepSection/StepRight'
 
 const TryoutSection: React.FC = () => {
     return (
