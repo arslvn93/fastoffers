@@ -20,10 +20,12 @@ const TryoutSection: React.FC = () => {
             </div>
 
             <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
+            <div className='container mx-auto mt-24 px-4 lg:px-6 xl:px-20'>
             <div className='flex flex-col lg:flex-row flex-nowrap'>
                 <StepLeft />
                 <StepRight />
             </div>
+        </div>
         </div>
 
             <svg className='absolute -bottom-0 left-0 right-0 w-full' fill="#ffffff" xmlns="http://www.w3.org/2000/svg" height="201" viewBox="0 0 1920.002 855.001" preserveAspectRatio="none">
