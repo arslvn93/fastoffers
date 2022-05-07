@@ -19,7 +19,7 @@ const TryoutSection: React.FC = () => {
                 </svg>
             </div>
 
-            <div className='container mx-auto mt-24 px-4 lg:px-6 xl:px-20'>
+            <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
             <div className='flex flex-col lg:flex-row flex-nowrap'>
                 <StepLeft />
                 <StepRight />
