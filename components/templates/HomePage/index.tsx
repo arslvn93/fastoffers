@@ -31,7 +31,7 @@ const HomePage = () => {
 
                 <TryoutSection />
                 
-                <StepSection />
+              
 
                
 
