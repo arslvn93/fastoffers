@@ -1,10 +1,11 @@
 import React from 'react'
 import TextTitleBorder from '../../../atoms/text/TextTitleBorder'
+import TextTitleBorderAnim from '../../../atoms/text/TextTitleBorderAnim'
 
 const StepLeft : React.FC = () => {
     return (
         <div className='flex-grow-0 flex-shrink w-full lg:w-5/12'>
-            <TextTitleBorder
+            <TextTitleBorderAnim
                 text='we help agents draft offers'
                 textBordered='faster'
                 classes='mb-7'

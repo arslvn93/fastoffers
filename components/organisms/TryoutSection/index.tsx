@@ -20,8 +20,7 @@ const TryoutSection: React.FC = () => {
                     <path d="M0 185.047L29.9989 177.248C59.9979 169.739 119.996 153.704 179.994 165.586C239.991 177.029 299.989 216.391 359.987 239.498C419.985 263.043 479.983 270.332 539.981 262.824C599.979 255.025 659.976 231.699 719.974 212.237C779.972 193.066 839.97 177.03 899.968 188.911C959.966 200.355 1019.96 239.717 1079.96 251.162C1139.96 263.043 1199.96 247.007 1259.95 251.162C1319.95 255.028 1379.95 278.35 1409.95 290.013L1439.97 301.858L1439.95 325H0V185.047Z" fill="#ffffff"></path>
                 </svg>
             </div>
-
-            <div className='container mx-auto mt-24 px-4 lg:px-6 xl:px-20'>
+            <div className='container mx-auto px-5 lg:px-10 xl:px-20 pt-64 pb-20 relative z-20'>
             <div className='flex flex-col lg:flex-row flex-nowrap'>
                 <StepLeft />
                 <StepRight />
