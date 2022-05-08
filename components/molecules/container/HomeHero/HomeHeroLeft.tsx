@@ -14,19 +14,19 @@ const HomeHeroLeft = () => {
             Generate auto-populated residential lease and purchase agreements faster than you ever thought possible.
             </p>
 
-            <div className='text-left inline-block'>
+            <div className='text-center inline-block'>
                 <Link href='https://forms.ltd/register'>
                     <a>
                         <ButtonSecondary
-                            text="Start Free Trial"
+                            text="Try it Free for 30 Days"
                             icon={BsArrowRightShort}
                             classes='py-4 px-14 rounded-full text-lg'
                         />
                     </a>
                 </Link>
 
-                <p className='text-xs mt-3'>
-                totally <span className='font-bold'>free for 30 days</span>. No credit card required.
+                <p className='text-m mt-3'>
+                &#40;No credit card required&#41;
                 </p>
             </div>
         </div>
