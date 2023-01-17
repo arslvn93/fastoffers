@@ -8,8 +8,8 @@
     }
 
     .text-gradient-green {
-        background: -webkit-linear-gradient(156deg, rgb(22, 66, 91) 0.6369426751592356%, rgb(6, 43, 64) 66.24203821656052%);
-        background: linear-gradient(156deg, rgb(22, 66, 91) 0.6369426751592356%, rgb(6, 43, 64) 66.24203821656052%);
+        background: -webkit-linear-gradient(156deg, rgb(16, 14, 160) 0.6369426751592356%, rgb(0, 212, 255) 66.24203821656052%);
+        background: linear-gradient(156deg, rgb(16, 14, 160) 0.6369426751592356%, rgb(0, 212, 255) 66.24203821656052%);
         -webkit-background-clip: text !important;
         background-clip: text !important;
         -webkit-text-fill-color: transparent !important;

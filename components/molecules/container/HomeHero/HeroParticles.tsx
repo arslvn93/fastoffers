@@ -50,7 +50,7 @@ const HeroParticles = () => {
             },
             particles: {
             color: {
-                value: "#81c3d7",
+                value: "#100EA0",
             },
             links: {
                 color: "transparent",

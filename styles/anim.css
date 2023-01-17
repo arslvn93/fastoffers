@@ -119,7 +119,7 @@
 .mouse-effect-carousel {
     height: 5px;
     width: 5px;
-    background-color: #27292c;
+    background-color: #0E0E0E;
     border-radius: 100%;
     opacity: 0;
     transition: height .7s, width .7s, opacity .7s;
@@ -158,7 +158,7 @@
   }
 
 .mouse-effect-carousel-arrow {
-    color: #27292c;
+    color: #0E0E0E;
     position: absolute;
     font-size: 21px;
     background-color: transparent;

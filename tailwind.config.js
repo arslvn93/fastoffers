@@ -4,14 +4,14 @@ module.exports = {
   theme: {
     extend: {
       textColor: {
-        'primary': '#81c3d7',
+        'primary': '#100EA0',
         'secondary': 'rgb(230, 108, 108)',
         'link': '#5b7bfb'
       },
       backgroundColor: {
-        'primary': '#81c3d7',
-        'secondary': 'rgb(22, 66, 91)',
-        'optional': '#27292c'
+        'primary': '#100EA0',
+        'secondary': 'rgb(16, 14, 160)',
+        'optional': '#0E0E0E'
       },
       fontFamily: {
         'primary': ['Roboto Condensed', 'sans-serif']
@@ -27,9 +27,9 @@ module.exports = {
         '5.8vw': '5.8vw',
       },
       borderColor: {
-        'primary': '#81c3d7',
-        'secondary': 'rgb(22, 66, 91)',
-        'optional': '#27292c'
+        'primary': '#100EA0',
+        'secondary': 'rgb(16, 14, 160)',
+        'optional': '#0E0E0E'
       },
       height: {
         '500px': '500px'
