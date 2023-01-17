@@ -26,7 +26,7 @@ const FooterLeft: React.FC = () => {
                         </a>
                     </Link>
 
-                    <p className='text-xs mt-3 text-center'>
+                    <p className='text-xs mt-3 text-center text-white'>
                         totally <span className='font-bold'>free for 30 days</span>. No credit card required.
                     </p>
                 </div>

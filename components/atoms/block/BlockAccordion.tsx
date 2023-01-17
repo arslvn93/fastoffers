@@ -25,7 +25,7 @@ const BlockAccordion : React.FC<IBlockAccordion> = ({ icon : Icon, title, descri
             </div>
 
             <Collapse isOpened={isOpen} theme={{collapse: 'relative left-0 right-0 duration-500', content: 'bar'}}>
-                <p className='p-6 text-gray-800'>{description}</p>
+                <p className='p-6 text-white-800'>{description}</p>
             </Collapse>
         </div>
     )
