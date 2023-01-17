@@ -12,7 +12,7 @@ const ListPackage : React.FC = () => {
                     description='Save 17% by getting our yearly plan'
                     listBenefit={[
                         {
-                            text: 'unlimited offers'
+                            text: 'UNLIMITED OFFERS'
                         },
                         {
                             text: 'DocuSign E-Signature Templates'
@@ -36,7 +36,7 @@ const ListPackage : React.FC = () => {
                     date='month'
                     listBenefit={[
                         {
-                            text: 'unlimited offers'
+                            text: 'UNLIMITED OFFERS'
                         },
                         {
                             text: 'DocuSign E-Signature Templates'

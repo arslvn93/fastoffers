@@ -21,7 +21,7 @@ const BlockPricing : React.FC<IBlockPricing> = ({ title, price, date, descriptio
                             <span className='mr-2'>
                                 <i className={`text-lg mr-3 ${isGreen ? 'text-white' : 'text-primary'}`}><AiOutlineCheck /></i>
                             </span>
-                            <span className={`text-800 ${i == 0 && 'font-bold uppercase'}${isGreen ? 'text-white' : 'text-primary'}`}>{data.text}</span>
+                            <span className={`text-800 ${isGreen ? 'text-white' : 'text-primary'}`}>{data.text}</span>
                         </li>
                     ))}
                 </ul>
