@@ -16,7 +16,7 @@ const Navigation : React.FC<INavigation> = ({ classes, logo }) => {
             <div className='mx-auto px-4 lg:px-20'>
                 <div className='flex flex-row flex-wrap lg:flex-nowrap'>
                     <div className='flex-grow flex-shrink'>
-                        <img src={logo} alt='logo' />
+                        <img src={logo} width="200" alt='logo' />
                     </div>
 
                     <div className='hidden lg:block flex-grow-0 flex-shrink'>
