@@ -14,7 +14,7 @@ const BlockAccordion : React.FC<IBlockAccordion> = ({ icon : Icon, title, descri
                 </div>
 
                 <div className='flex-grow flex-shrink px-5'>
-                    <h5 className='text-xl  text-navy-900'>{title}</h5>
+                    <h5 className='text-xl  text-white'>{title}</h5>
                 </div>
 
                 <div>
@@ -25,7 +25,7 @@ const BlockAccordion : React.FC<IBlockAccordion> = ({ icon : Icon, title, descri
             </div>
 
             <Collapse isOpened={isOpen} theme={{collapse: 'relative left-0 right-0 duration-500', content: 'bar'}}>
-                <p className='p-6 text-white-800'>{description}</p>
+                <p className='p-6 text-white'>{description}</p>
             </Collapse>
         </div>
     )
