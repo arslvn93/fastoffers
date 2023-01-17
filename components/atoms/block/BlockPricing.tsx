@@ -10,10 +10,10 @@ const BlockPricing : React.FC<IBlockPricing> = ({ title, price, date, descriptio
                 <h5 className={`font-bold text-sm tracking-widest ${isGreen ? 'text-white' : 'text-gray-800'}`}>{title}</h5>
                 <div className='flex flex-row flex-nowrap my-4 items-baseline'>
                     <span className={`text-5xl font-bold mr-1 ${isGreen ? 'text-white' : 'text-primary'}`}>{price}</span>
-                    <span className='text-gray-500'>/{date}</span>
+                    <span className={`text-500 ${isGreen ? 'text-white' : 'text-primary'}`}>/{date}</span>
                 </div>
 
-                {description && <p className='text-lg text-gray-800 mb-7'>{description}</p>}
+                {description && <p className={`text-lg text-800 mb-7 ${isGreen ? 'text-white' : 'text-primary'}`}>{description}</p>}
 
                 <ul className='last:mb-0'>
                     {listBenefit && listBenefit.map((data, i) => (
