@@ -10,8 +10,8 @@ const HomeHeroLeft = () => {
             draft real estate offers in seconds
             </h1>
 
-            <p className='leading-relaxed text-xl py-8'>
-            Generate auto-populated residential lease and purchase agreements faster than you ever thought possible.
+            <p className='text-gray-800 leading-relaxed text-xl py-8'>
+            Easily and quickly generate automatically filled-in residential lease and purchase agreements for almost any property in Ontario.
             </p>
 
             <div className='text-center inline-block'>
@@ -25,7 +25,7 @@ const HomeHeroLeft = () => {
                     </a>
                 </Link>
 
-                <p className='text-m mt-3'>
+                <p className='text-xs text-m mt-3'>
                 &#40;No credit card required&#41;
                 </p>
             </div>
