@@ -1,5 +1,5 @@
 import React from 'react'
-import ButtonSecondary from '../../../atoms/control/ButtonSecondary'
+import ButtonThird from '../../../atoms/control/ButtonThird'
 import TextTitleBorderAnim from '../../../atoms/text/TextTitleBorderAnim'
 import { BsArrowRightShort } from 'react-icons/bs'
 import ButtonFlipped from '../../../atoms/control/ButtonFlipped'
@@ -18,10 +18,10 @@ const FooterLeft: React.FC = () => {
                 <div className='text-center md:inline-block'>
                     <Link href='https://forms.ltd/register'>
                         <a>
-                            <ButtonSecondary
+                            <ButtonThird
                                 text="CLICK HERE TO BEGIN"
                                 icon={BsArrowRightShort}
-                                classes='py-4 px-14 rounded-full text-lg hover:bg-white hover:text-secondary'
+                                classes='py-4 px-14 rounded-full text-lg hover:bg-primary hover:text-white'
                             />
                         </a>
                     </Link>

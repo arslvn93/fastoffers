@@ -36,6 +36,15 @@
         @apply duration-300;
     }
 
+    .button-third {
+        @apply bg-white text-primary;
+        @apply px-7 py-3;
+        @apply rounded;
+        @apply text-white hover:shadow-primary;
+        @apply text-center;
+        @apply duration-300;
+    }
+
     .button-secondary:hover {
         @apply bg-primary;
     }
