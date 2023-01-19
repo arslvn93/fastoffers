@@ -19,7 +19,7 @@ const Footer = () => {
                 <FooterBottom
                     logo='./logo-white.png'
                     copyright={(
-                        <p> © 2022 FastOffers.ca & <a href="https://www.forms.ltd/">Forms.</a>LTD. | Privacy Policy | Made with ❤ in Toronto</p>
+                        <p> © 2023 FastOffers.ca & <a href="https://www.forms.ltd/">Forms.</a>LTD. | Privacy Policy | Made with ❤ in Toronto</p>
                     )}
                 />
             </div>
