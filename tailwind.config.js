@@ -5,8 +5,8 @@ module.exports = {
     extend: {
       textColor: {
         'primary': '#100EA0',
-        'secondary': 'rgb(230, 108, 108)',
-        'link': '#5b7bfb'
+        'secondary': 'rgb(255, 255, 255)',
+        'link': '#0095bb'
       },
       backgroundColor: {
         'primary': '#100EA0',
