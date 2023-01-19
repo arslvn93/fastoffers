@@ -37,7 +37,7 @@
     }
 
     .button-third {
-        @apply bg-white text-secondary;
+        @apply bg-white text-primary;
         @apply px-7 py-3;
         @apply rounded;
         @apply text-white hover:shadow-primary;
