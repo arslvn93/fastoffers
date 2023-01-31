@@ -40,7 +40,7 @@
         @apply bg-white text-black;
         @apply px-7 py-3;
         @apply rounded;
-        @apply text-bkack hover:shadow-primary;
+        @apply text-black hover:shadow-primary;
         @apply text-center;
         @apply duration-300;
     }
