@@ -56,7 +56,7 @@ const ClientList : React.FC<IClientList> = ({ dataLogo }) => {
           <Carousel
               responsive={responsive}
               infinite={true}
-              draggable={true}
+              draggable={false}
               swipeable={true}
               autoPlay={true}
               autoPlaySpeed={1}

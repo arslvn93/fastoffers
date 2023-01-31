@@ -2,27 +2,27 @@ import { TDataLogo } from '../types'
 
 export const dataLogo : TDataLogo = [
     {
-        logo: './client/C21-1.png'
-    },
-    {
-        logo: './client/harveykales.png'
+        logo: './client/bradlamb.png'
     },
     {
         logo: './client/property.png'
     },
     {
-        logo: './client/remax-1.png'
+        logo: './client/strata.png'
     },
     {
-        logo: './client/remax-3.png'
+        logo: './client/rare.png'
     },
     {
-        logo: './client/rightathome.png'
+        logo: './client/foresthill.png'
     },
     {
-        logo: './client/royal-lepage.png'
+        logo: './client/zolo.png'
     },
     {
-        logo: './client/zoocasapng.png'
+        logo: './client/exp.png'
+    },
+    {
+        logo: './client/zoocasa.png'
     }
 ]
